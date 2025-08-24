@@ -1089,7 +1089,7 @@
                     <key>bluetoothInternalControllerInfo</key>
                     <data>AAAAAAAAAAAAAAAAAAA=</data>
                     <key>boot-args</key>
-                    <string>alcid=11 watchdog=0 igfxonln=1 -vi2c-force-polling -igfxblr -noDC9 igfxfw=2 igfxagdc=0 -wegnoegpu uia_exclude=USR1;USR2 keepsyms=1 swd_panic=1 amfi=0x80</string>
+                    <string>-v alcid=11 watchdog=0 igfxonln=1 -vi2c-force-polling -igfxblr -noDC9 igfxfw=2 igfxagdc=0 -wegnoegpu uia_exclude=USR1;USR2 keepsyms=1 swd_panic=1 amfi=0x80</string>
                     <key>csr-active-config</key>
                     <data>AwgAAA==</data>
                     <key>prev-lang:kbd</key>
