@@ -19,7 +19,7 @@ This EFI is built to run **macOS Sequoia 15.6** using **OpenCore 1.0.5**.
 | CPU                  | Intel Core i5-10210U (Comet Lake-U)                  |
 | iGPU                 | Intel UHD Graphics 620 (✅ QE/CI berfungsi penuh / fully working) |
 | dGPU                 | NVIDIA MX (❌ tidak didukung / not supported)         |
-| Audio                | Realtek ALC230 (AppleALC.kext)                       |
+| Audio                | Realtek ALC257 (AppleALC.kext)                       |
 | Wi-Fi / BT           | Intel AX201 (itlwm & IntelBluetooth)                 |
 | Storage              | NVMe SSD                                             |
 | Bootloader           | OpenCore 1.0.5                                       |
@@ -32,7 +32,7 @@ This EFI is built to run **macOS Sequoia 15.6** using **OpenCore 1.0.5**.
 |-----------------------|--------|-------------------------------------------------------------------|
 | Boot macOS Sequoia 15.6 | ✅   | Berjalan lancar / Fully bootable with OpenCore 1.0.5              |
 | Intel UHD 620 (QE/CI) | ✅     | Akselerasi grafis penuh / Full graphics acceleration              |
-| Audio (ALC230)        | ✅     | AppleALC + Layout-ID                                              |
+| Audio (ALC257)        | ✅     | AppleALC + Layout-ID                                              |
 | Keyboard & Trackpad   | ✅     | VoodooPS2Controller                                               |
 | USB Mapping           | ✅     | Stabil / Stable                                                   |
 | Battery Status        | ✅     | SMCBatteryManager                                                 |
