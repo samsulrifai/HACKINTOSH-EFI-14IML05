@@ -9,6 +9,10 @@
 EFI ini dibuat untuk menjalankan **macOS Sequoia 15.6** menggunakan **OpenCore 1.0.5**.  
 This EFI is built to run **macOS Sequoia 15.6** using **OpenCore 1.0.5**.  
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a6fc8908-d2b6-4f24-8b8b-f66ecdd4fa19" alt="About This Mac" width="392" height="655">
+</p>
+
 ---
 
 ## 📊 Spesifikasi Hardware / Hardware Specification
